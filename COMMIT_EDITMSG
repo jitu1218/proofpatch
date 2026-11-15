@@ -1,0 +1,6 @@
+docs(validation): document snapshot model limitations and status levels
+
+State clearly that StagedFile cannot represent deleted, renamed or binary
+files, file modes, or encoding/line endings, and what that means for
+fingerprints and reports. Document individual check status vs overall report
+status and the ledger mapping. Interface stays provisional; no new fields.

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 4fbd20544ce161ec23d12593ded93598a8f5b5db Member 5 <member5@example.com> 1794390463 +0000	commit (initial): chore(validation): scaffold core/validation module
+4fbd20544ce161ec23d12593ded93598a8f5b5db 101cbe51f476134c73af2d831f4be24601674533 Member 5 <member5@example.com> 1794390473 +0000	commit: feat(validation/types): add provisional staged-snapshot interfaces
+101cbe51f476134c73af2d831f4be24601674533 ab6bafcfffb01d4094302d5aa50d93425669a72b Member 5 <member5@example.com> 1794390486 +0000	commit: feat(validation/types): add runner and validation evidence types
+ab6bafcfffb01d4094302d5aa50d93425669a72b e7d9061b51e21e97b5dd74d5255f5a08db1df2d2 Member 5 <member5@example.com> 1794390498 +0000	commit: feat(validation/types): add freshness ledger types and public exports
+e7d9061b51e21e97b5dd74d5255f5a08db1df2d2 2c7f81d9b955ad6e78969f153cf76710b4bc0e83 Member 5 <member5@example.com> 1794390508 +0000	commit: docs(validation): add README with phase status and interface ownership
+2c7f81d9b955ad6e78969f153cf76710b4bc0e83 9713aaf7dfbe0aa6866e475feaf7e225c5329034 Member 5 <member5@example.com> 1794391177 +0000	commit: chore(validation): harden .gitignore for env files, keys and logs
+9713aaf7dfbe0aa6866e475feaf7e225c5329034 d534d0b9b74c25c9d2d7066b23d9d96a3dd79df5 Member 5 <member5@example.com> 1794391226 +0000	commit: fix(validation/types): make FRESH and FAILED evidence type-safe
+d534d0b9b74c25c9d2d7066b23d9d96a3dd79df5 39533860cf74e7f761586395fca347eee52d1134 Member 5 <member5@example.com> 1794391244 +0000	commit: feat(validation/types): separate check status from overall report status
+39533860cf74e7f761586395fca347eee52d1134 ce1b4c2747672efa3b99fd7ee611d4084c0028f8 Member 5 <member5@example.com> 1794391261 +0000	commit: docs(validation): document snapshot model limitations and status levels

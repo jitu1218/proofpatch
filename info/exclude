@@ -1,0 +1,15 @@
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+
+# Member 5 local safety net (root .gitignore is owned by the team lead's repo)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+dist/
